@@ -1,0 +1,1 @@
+{"version":3,"file":"slot.providers.js","sourceRoot":"","sources":["../../src/slot/slot.providers.ts"],"names":[],"mappings":";;;AACA,+CAAqC;AAExB,QAAA,aAAa,GAAG,CAAC;QAC1B,OAAO,EAAE,iBAAiB;QAC1B,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CAAC,UAAU,CAAC,aAAa,CAAC,kBAAI,CAAC;QACtE,MAAM,EAAE,CAAC,aAAa,CAAC;KAC1B,EAAE,CAAA"}
